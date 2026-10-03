@@ -1,0 +1,25 @@
+product_id,product_name,category,cost_price,selling_price,reorder_level
+P001,Rice 5kg,Groceries,260,310,20
+P002,Wheat Flour 5kg,Groceries,210,255,18
+P003,Mustard Oil 1L,Groceries,125,155,15
+P004,Sunflower Oil 1L,Groceries,118,145,15
+P005,Sugar 1kg,Groceries,42,52,25
+P006,Salt 1kg,Groceries,18,25,30
+P007,Tea 250g,Beverages,85,110,12
+P008,Coffee 100g,Beverages,70,95,10
+P009,Biscuits Pack,Snacks,18,25,35
+P010,Noodles Pack,Snacks,12,18,30
+P011,Chips Pack,Snacks,10,15,40
+P012,Milk 1L,Dairy,42,52,25
+P013,Bread,Dairy,28,35,25
+P014,Eggs 6pc,Dairy,35,45,20
+P015,Soap Bar,Personal Care,28,38,20
+P016,Shampoo 180ml,Personal Care,105,135,12
+P017,Toothpaste,Personal Care,72,90,12
+P018,Detergent 1kg,Home Care,72,95,15
+P019,Dishwash 500ml,Home Care,55,72,15
+P020,Notebook,Stationery,35,50,20
+P021,Pen Pack,Stationery,20,30,25
+P022,LED Bulb,Electrical,75,105,10
+P023,Battery Pair,Electrical,35,50,15
+P024,Incense Pack,Household,22,32,20

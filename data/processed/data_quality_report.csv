@@ -1,0 +1,8 @@
+dataset,input_rows,output_rows,duplicates_removed,invalid_rows,missing_critical_values,status
+products,24,24,0,0,0,PASS
+customers,100,100,0,0,0,PASS
+suppliers,4,4,0,0,0,PASS
+sales,10333,10308,25,0,0,PASS
+payments,7652,7652,0,0,0,PASS
+purchases,315,315,0,0,1,WARN
+credit,2656,2656,0,0,0,PASS
