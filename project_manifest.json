@@ -1,0 +1,21 @@
+{
+  "project": "DukaanPulse",
+  "generated": "2026-10-02T08:38:47",
+  "data_type": "synthetic",
+  "primary_stack": [
+    "Python",
+    "Pandas",
+    "SQL",
+    "PostgreSQL/SQLite",
+    "SQLAlchemy",
+    "Streamlit"
+  ],
+  "advanced_stack": [
+    "Airflow",
+    "Docker",
+    "AWS S3",
+    "PySpark"
+  ],
+  "entry_point": "python -m src.pipeline",
+  "dashboard": "streamlit run dashboard/app.py"
+}

@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: dukaanpulse-postgres
+    environment:
+      POSTGRES_DB: dukaanpulse
+      POSTGRES_USER: dukaan
+      POSTGRES_PASSWORD: dukaan
+    ports:
+      - "5432:5432"
+    volumes:
+      - dukaanpulse_pgdata:/var/lib/postgresql/data
+
+volumes:
+  dukaanpulse_pgdata:

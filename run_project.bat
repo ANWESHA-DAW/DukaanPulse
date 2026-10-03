@@ -1,0 +1,9 @@
+@echo off
+echo Installing dependencies...
+python -m pip install -r requirements.txt
+echo.
+echo Running ETL pipeline...
+python -m src.pipeline
+echo.
+echo Starting dashboard...
+streamlit run dashboard/app.py
