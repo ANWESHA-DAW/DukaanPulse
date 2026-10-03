@@ -6,6 +6,10 @@ A small shop usually keeps sales, UPI/card/cash payments, supplier purchases and
 
 > **Data note:** all data in this repository is synthetic (made up for learning). It contains no real customer, payment or business information.
 
+## Dashboard
+
+![DukaanPulse dashboard overview](docs/dashboard_overview.png)
+
 ## What it does
 
 - Reads 8 CSV source files (sales, payments, purchases, credit, products, customers, suppliers, festivals)
